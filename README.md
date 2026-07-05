@@ -11,7 +11,7 @@
 
 Highly motivated recent **B.S. Information Technology** graduate with a strong portfolio of industry-recognized certifications and hands-on project experience. Excelled in Western Governors University’s rigorous competency-based program, completing the degree **16 weeks early** while maintaining a 3.8 GPA.
 
-Proven ability to quickly master complex technical concepts, troubleshoot effectively, and deliver results in fast-paced environments. Passionate about **networking, security, systems administration, and cloud technologies**. Seeking an entry-level **IT Support, Help Desk, Technical Specialist, or Junior Network/Security** role where I can contribute immediately and continue growing as a professional.
+Proven ability to quickly master complex technical concepts, troubleshoot effectively, and deliver results in fast-paced environments. Passionate about **hardware, infastructure, networking, security, systems administration, and cloud technologies**. Seeking an entry-level **IT Support, Help Desk, Technical Specialist, or Junior Network/Security** role where I can contribute immediately and continue growing as a professional.
 
 ---
 
@@ -19,7 +19,7 @@ Proven ability to quickly master complex technical concepts, troubleshoot effect
 
 I am a passionate and driven IT professional who thrives on solving technical challenges and continuously expanding my knowledge. My journey into IT began with a strong desire to build reliable, secure, and efficient systems that make a real impact.
 
-I am particularly excited about **networking infrastructure** and **cybersecurity**, and I am eager to start my career in an entry-level IT role where I can apply my skills, learn from experienced teams, and grow into more advanced positions over time. I am committed to staying current with emerging technologies, best practices, and industry trends through certifications, hands-on projects, and self-directed learning.
+I am particularly excited about **hardware and networking infrastructure** and **cybersecurity**, and I am eager to start my career in an entry-level IT role where I can apply my skills, learn from experienced teams, and grow into more advanced positions over time. I am committed to staying current with emerging technologies, best practices, and industry trends through certifications, hands-on projects, and self-directed learning.
 
 Whether troubleshooting a network issue, securing a system, or optimizing workflows, I bring dedication, curiosity, and a strong work ethic to everything I do.
 
@@ -50,6 +50,9 @@ Whether troubleshooting a network issue, securing a system, or optimizing workfl
 - Achieve mid-level certifications (CCNP, advanced security credentials)
 - Progress into roles with increasing responsibility in network operations or security operations
 - Contribute to the IT community through content creation, mentoring, and open projects
+
+**if any**
+- Anything that catches my mind, I love to expand my knowledge regardless.
 
 This repository and my GitHub profile serve as a living record of my technical growth, projects, and commitment to excellence in the IT profession.
 
