@@ -3,7 +3,7 @@
 # Aaron R. Smith – IT Professional
 
 **Temple, Texas** • (254) 389-0432 • apacheclient@outlook.com  
-**GitHub:** [apacheclient](https://github.com/apacheclient) • **LinkedIn:** [Aaron Smith](https://linkedin.com/in/aaron-smith-996745331)
+**GitHub:** [apacheclient](https://github.com/apacheclient) 
 
 ---
 
